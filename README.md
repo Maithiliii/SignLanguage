@@ -8,6 +8,9 @@ Introducing a sign language lecture interpretation and gesture recognition app! 
 🖼️ User Interface built with tkinter  
 💻 Runs entirely offline after setup  
 
+## Setup Instructions  
+1. Clone the Repository  
+2. Unzip the weights folder into the root directroy (or in directory with the GUI_Window.py).  
 ```bash
 git clone https://github.com/your-username/we-speak.git
 cd we-speak
